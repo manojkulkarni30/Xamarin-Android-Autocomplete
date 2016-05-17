@@ -1,5 +1,5 @@
-# Xamarin-Android-Autocomplete
-A simple app how to create a text entry widget that provides auto-complete suggestions.
+# Xamarin Android: Autocomplete
+A simple app that demonstrate how to create a text entry widget that provides auto-complete suggestions.
 
 # Snapshot
 
