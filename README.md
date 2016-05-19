@@ -5,3 +5,5 @@ A simple app that demonstrate how to create a text entry widget that provides au
 
 ![Snapshot](https://github.com/manojkulkarni30/Xamarin-Android-Autocomplete/blob/master/AutoCompleteApp/Snapshot/Autocomplete.png)
 
+# Reference
+https://developer.xamarin.com/guides/android/user_interface/auto_complete/
